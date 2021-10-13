@@ -2,9 +2,13 @@
 
 I am Philip an I love build web applications! 
 
-[<img src="/assets/linkedin.png" width="30">](https://www.linkedin.com/in/philip-hinchsliff/) [<img src="/assets/youtube.png" width="30">](https://www.youtube.com/channel/UCjHdpf8Osw8L3yqh67-4YVg) [<img src="/assets/codepen.png" width="30">](https://codepen.io/neo90sr) [My Portfolio](https://philhinchportfolio.netlify.app/)
+---
 
+Check Out My Profiles:
 
+[<img src="/assets/linkedin.png" width="30">](https://www.linkedin.com/in/philip-hinchsliff/) - [<img src="/assets/youtube.png" width="30">](https://www.youtube.com/channel/UCjHdpf8Osw8L3yqh67-4YVg) - [<img src="/assets/codepen.png" width="30">](https://codepen.io/neo90sr) - [My Portfolio](https://philhinchportfolio.netlify.app/)
+
+---
 
 - 🔭 I’m currently working on ... Building JavaScript Projects
 - 🌱 I’m currently learning ... React

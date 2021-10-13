@@ -8,9 +8,7 @@ Check out my profiles:
 
 [<img src="/assets/linkedin.png" width="30">](https://www.linkedin.com/in/philip-hinchsliff/)  [<img src="/assets/youtube.png" width="30">](https://www.youtube.com/channel/UCjHdpf8Osw8L3yqh67-4YVg)  [<img src="/assets/facebook.png" width="30">](https://www.facebook.com/philiphinchsliff/)  [<img src="/assets/codepen.png" width="30">](https://codepen.io/neo90sr)  [My Portfolio](https://philhinchportfolio.netlify.app/)
 
-Email:
-
-1. philip.hinchsliff@yahoo.com
+Email: philip.hinchsliff@yahoo.com
 
 ---
 

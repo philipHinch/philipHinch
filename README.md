@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I am Philip an I love build web applications! 
+I'm Philip and I love to build web applications! 
 
 ---
 

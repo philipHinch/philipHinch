@@ -25,7 +25,7 @@ philip.hinchsliff@yahoo.com
 
 Technologies I use:
 
-<img src="/assets/htmllogo.svg" width="60" title="HTML"> <img src="/assets/csslogo.svg" width="60" title="CSS"> <img src="/assets/jslogo.svg" width="60" title="JavaScript"> <img src="/assets/es6logo.svg" width="60" title="ES6"> <img src="/assets/react.svg" width="60" title="React.js"> <img src="/assets/gitlogo.png" width="60" title="Git"> <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> <img src="/assets/sasslogo.svg" width="80" title="Sass"> <img src="/assets/firebase.svg" width="50" title="Firebase"> <img src="/assets/figmalogo.svg" width="40" title="Figma"> <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
+<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> <img src="/assets/csslogo.svg" width="60" title="CSS 3"> <img src="/assets/jslogo.svg" width="60" title="JavaScript"> <img src="/assets/es6logo.svg" width="60" title="ES6"> <img src="/assets/react.svg" width="60" title="React"> <img src="/assets/gitlogo.png" width="60" title="Git"> <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> <img src="/assets/sasslogo.svg" width="80" title="Sass"> <img src="/assets/firebase.svg" width="50" title="Firebase"> <img src="/assets/figmalogo.svg" width="40" title="Figma"> <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
 
 
 

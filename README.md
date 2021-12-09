@@ -27,7 +27,9 @@ Technologies I use:
 
 <img src="/assets/htmllogo.svg" width="60" title="HTML 5"> <img src="/assets/csslogo.svg" width="60" title="CSS 3"> <img src="/assets/jslogo.svg" width="60" title="JavaScript"> <img src="/assets/es6logo.svg" width="60" title="ES6"> <img src="/assets/react.svg" width="60" title="React"> <img src="/assets/gitlogo.png" width="60" title="Git"> <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> <img src="/assets/sasslogo.svg" width="80" title="Sass"> <img src="/assets/firebase.svg" width="50" title="Firebase"> <img src="/assets/figmalogo.svg" width="40" title="Figma"> <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
 
+---
 
+Huge thanks to: [Brad Traversy](https://github.com/bradtraversy), [Shaun Pelling - Net Ninja](https://github.com/iamshaunjp), [Dave Gray](https://github.com/gitdagray), [Florin Pop](https://github.com/florinpop17), [Asabeneh Yetayeh](https://github.com/Asabeneh)
 
 
 

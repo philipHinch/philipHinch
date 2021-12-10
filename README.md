@@ -32,7 +32,7 @@ Technologies I use:
 
 ---
 
-Huge thanks to: [Brad Traversy](https://github.com/bradtraversy), [Shaun Pelling/Net Ninja](https://github.com/iamshaunjp), [Dave Gray](https://github.com/gitdagray), [Florin Pop](https://github.com/florinpop17), [Asabeneh Yetayeh](https://github.com/Asabeneh)
+Huge thanks to: [Brad Traversy](https://github.com/bradtraversy) - [Shaun Pelling/Net Ninja](https://github.com/iamshaunjp) - [Dave Gray](https://github.com/gitdagray) - [Florin Pop](https://github.com/florinpop17) - [Asabeneh Yetayeh](https://github.com/Asabeneh)
 
 
 

@@ -12,7 +12,7 @@ Check out my profiles:
 
 Portfolio:
 
-[My Portfolio](https://philhinchportfolio.netlify.app/)
+[View Portfolio](https://philhinchportfolio.netlify.app/)
 
 Email:
 

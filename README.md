@@ -14,10 +14,6 @@ Portfolio:
 
 [View Portfolio](https://philhinchportfolio.netlify.app/)
 
-Email:
-
-philip.hinchsliff@yahoo.com
-
 ---
 
 - 🔭 I’m currently working on ... Building React Projects

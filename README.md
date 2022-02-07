@@ -16,7 +16,7 @@ Portfolio:
 
 ---
 
-- 🔭 I’m currently working on ... Building React "Expense Tracking App" with user authentication
+- 🔭 I’m currently working on ... Building a React "Expense Tracking App" with user authentication
 - 🌱 I’m currently learning ... Advanced React, Firebase
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Where I'm from :smiley:

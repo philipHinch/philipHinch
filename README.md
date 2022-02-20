@@ -10,11 +10,9 @@ Check out my profiles:
 
 ![](https://komarev.com/ghpvc/?username=philipHinch&color=blueviolet)
 
-Portfolio:
+View Portfolio:
 
-[<img alt="alt_text" width="100px" src="https://raw.githubusercontent.com/philipHinch/my-portfolio/main/images/assets/preview1orange.png" />](https://philhinchportfolio.netlify.app/)
-
-[View Portfolio](https://philhinchportfolio.netlify.app/)
+[<img alt="alt_text" width="120px" src="https://raw.githubusercontent.com/philipHinch/my-portfolio/main/images/assets/preview1orange.png" />](https://philhinchportfolio.netlify.app/)
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

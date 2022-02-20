@@ -10,8 +10,6 @@ Check out my profiles:
 
 [<img src="/assets/linkedin.png" width="30" title="LinkedIn">](https://www.linkedin.com/in/philip-hinchsliff/) &nbsp; [<img src="/assets/youtube.png" width="30" title="YouTube">](https://www.youtube.com/channel/UCjHdpf8Osw8L3yqh67-4YVg) &nbsp; [<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/philiphinchsliff/) &nbsp; [<img src="/assets/codepen.png" width="30" title="Codepen">](https://codepen.io/neo90sr)
 
-![](https://komarev.com/ghpvc/?username=philipHinch&color=blueviolet)
-
 View Portfolio:
 
 [<img alt="alt_text" width="120px" src="https://raw.githubusercontent.com/philipHinch/my-portfolio/main/images/assets/preview1orange.png" />](https://philhinchportfolio.netlify.app/)

@@ -44,7 +44,6 @@ I'm Philip and I love to build web applications!
 - [Brad Traversy](https://github.com/bradtraversy) 
 - [Shaun Pelling/Net Ninja](https://github.com/iamshaunjp) 
 - [Dave Gray](https://github.com/gitdagray) 
-- [Florin Pop](https://github.com/florinpop17) 
 - [Asabeneh Yetayeh](https://github.com/Asabeneh)
 
 

@@ -21,7 +21,7 @@ I'm Philip and I love to build web applications!
 
 
 - 🔭 I’m currently working on ... Building React Projects
-- 🌱 I’m currently learning ... Advanced React, Jest, Node.js, Redux
+- 🌱 I’m currently learning ... Jest, Node.js, Redux
 - 👯 I’m looking to collaborate on ... Different Projects
 - 🔨 I'm planning to ... Rebuild my portfolio using React
 - 💬 Ask me about ... Where I'm from :smiley:

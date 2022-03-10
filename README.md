@@ -14,7 +14,7 @@ I'm Philip and I love to build web applications!
 
 **View Portfolio:**
 
-[<img alt="alt_text" width="120px" target="_blank" src="https://raw.githubusercontent.com/philipHinch/modern-portfolio/main/src/assets/previews/modern_portfolio_wide.png" />](https://philiphinchsliff.vercel.app/)
+[<img alt="alt_text" width="120px" src="https://raw.githubusercontent.com/philipHinch/modern-portfolio/main/src/assets/previews/modern_portfolio_wide.png" />](https://philiphinchsliff.vercel.app/)
 
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)

@@ -23,9 +23,9 @@ A passionate and enthusiastic self-taught web developer with exceptional eye for
 
 
 - 🔭 I’m currently working on ... Building React Projects
-- 🌱 I’m currently learning ... React Testing, Node.js, Redux
+- 🌱 I’m currently learning ... Node.js & Redux
 - 👯 I’m looking to collaborate on ... Different Projects
-- 🔨 I'm planning to ... Rebuild my portfolio using React
+- 🔨 I'm planning to ... Learn the MERN stack
 - 💬 Ask me about ... Where I'm from :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
 - ⚡ Fun fact: ... Humans are just one of the estimated 8.7 million species on Earth!

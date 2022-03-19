@@ -6,6 +6,9 @@ I'm Philip and I love to build web applications!
 
 ![](https://komarev.com/ghpvc/?username=philipHinch&color=blueviolet)
 
+![](https://komarev.com/ghpvc/?username=philipHinch&style=for-the-badge	)
+
+
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

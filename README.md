@@ -21,7 +21,7 @@ I'm Philip and I love to build web applications!
 
 
 - 🔭 I’m currently working on ... Building React Projects
-- 🌱 I’m currently learning ... Testing & Node.js
+- 🌱 I’m currently learning ... Node.js
 - 👯 I’m looking to collaborate on ... Different Projects
 - 🔨 I'm planning to ... Learn the MERN stack, Next.js, Redux, Headless CMS
 - 💬 Ask me about ... Where I'm from :smiley:

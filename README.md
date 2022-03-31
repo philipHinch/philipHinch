@@ -38,14 +38,15 @@ I'm Philip and I love to build web applications!
  </div>
 
 **Back-End Technologies:**
+<div>
 <img src="/assets/node.svg" width="50" title="Node"> &nbsp; <img src="/assets/express.svg" width="50" title="Express"> &nbsp; <img src="/assets/firebase.svg" width="50" title="Firebase"> 
+</div>
 
 
 **Tools I use:**
+<div>
 <img src="/assets/jestlogo.svg" width="50" title="Jest"> &nbsp; <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/npmicon.svg" width="60" title="npm"> &nbsp; <img src="/assets/figmalogo.svg" width="40" title="Figma"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
-
- &nbsp;  &nbsp;   
-
+</div>
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

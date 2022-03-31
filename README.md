@@ -48,8 +48,7 @@ I'm Philip and I love to build web applications!
 <img src="/assets/jestlogo.svg" width="50" title="Jest"> &nbsp; <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/npmicon.svg" width="60" title="npm"> &nbsp; <img src="/assets/figmalogo.svg" width="40" title="Figma"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
 </div>
 
-<div>
-</div>
+&nbsp;
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

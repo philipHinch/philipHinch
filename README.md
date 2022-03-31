@@ -16,9 +16,9 @@ I'm Philip and I love to build web applications!
 
 [<img alt="alt_text" width="120px" src="https://raw.githubusercontent.com/philipHinch/modern-portfolio/main/src/assets/previews/modern_portfolio_wide.png" />](https://philiphinchsliff.vercel.app/)
 
-
+&nbsp;
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
-
+&nbsp;
 
 - 🔭 I’m currently working on ...... Building React Projects
 - 🌱 I’m currently learning ...... Node.js & Express.js
@@ -28,8 +28,9 @@ I'm Philip and I love to build web applications!
 - 📫 How to reach me: ...... Just by email or message on social media 
 - ⚡ Fun fact: ...... Humans are just one of the estimated 8.7 million species on Earth!
 
-
+&nbsp;
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
+&nbsp;
 
 
 **Front-End Technologies:**

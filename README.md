@@ -20,13 +20,13 @@ I'm Philip and I love to build web applications!
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 
 
-- 🔭 I’m currently working on ... Building React Projects
-- 🌱 I’m currently learning ... Node.js & Express.js
-- 👯 I’m looking to collaborate on ... Different Projects
-- 🔨 I'm planning to ... Learn the MERN stack, Next.js, Redux, Headless CMS
-- 💬 Ask me about ... Where I'm from :smiley:
-- 📫 How to reach me: ... Just by email or message on social media 
-- ⚡ Fun fact: ... Humans are just one of the estimated 8.7 million species on Earth!
+- 🔭 I’m currently working on ...... Building React Projects
+- 🌱 I’m currently learning ...... Node.js & Express.js
+- 👯 I’m looking to collaborate on ...... Different Projects
+- 🔨 I'm planning to ...... Learn the MERN stack, Next.js, Redux, Headless CMS
+- 💬 Ask me about ...... Where I'm from :smiley:
+- 📫 How to reach me: ...... Just by email or message on social media 
+- ⚡ Fun fact: ...... Humans are just one of the estimated 8.7 million species on Earth!
 
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)

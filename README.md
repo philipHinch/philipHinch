@@ -54,6 +54,9 @@ I'm Philip and I love to build web applications!
 &nbsp;
 
 **Other:**\
+
+&nbsp;
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 &nbsp;

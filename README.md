@@ -32,9 +32,17 @@ I'm Philip and I love to build web applications!
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 
 
-**Technologies & Tools I use:**
+**Front-End Technologies:**
+<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6+"> &nbsp; <img src="/assets/react.svg" width="60" title="React"> &nbsp; <img src="/assets/tailwind.svg" width="70" height="60" title="Tailwind CSS"> &nbsp; <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> &nbsp; <img src="/assets/sasslogo.svg" width="80" title="Sass">
 
-<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6+"> &nbsp; <img src="/assets/react.svg" width="60" title="React"> &nbsp; <img src="/assets/jestlogo.svg" width="50" title="Jest"> &nbsp; <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/tailwind.svg" width="70" height="60" title="Tailwind CSS"> &nbsp; <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> &nbsp; <img src="/assets/sasslogo.svg" width="80" title="Sass"> &nbsp; <img src="/assets/firebase.svg" width="50" title="Firebase"> &nbsp; <img src="/assets/npmicon.svg" width="60" title="npm"> &nbsp; <img src="/assets/figmalogo.svg" width="40" title="Figma"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
+**Back-End Technologies:**
+<img src="/assets/node.svg" width="50" title="Node"> &nbsp; <img src="/assets/express.svg" width="50" title="Express"> &nbsp; <img src="/assets/firebase.svg" width="50" title="Firebase"> 
+
+
+**Tools I use:**
+<img src="/assets/jestlogo.svg" width="50" title="Jest"> &nbsp; <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/npmicon.svg" width="60" title="npm"> &nbsp; <img src="/assets/figmalogo.svg" width="40" title="Figma"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
+
+ &nbsp;  &nbsp;   
 
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)

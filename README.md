@@ -53,6 +53,13 @@ I'm Philip and I love to build web applications!
 
 &nbsp;
 
+**Other:**
+<div> 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) &nbsp; ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) &nbsp; ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+</div>
+
+&nbsp;
+
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 
 

@@ -33,7 +33,9 @@ I'm Philip and I love to build web applications!
 
 
 **Front-End Technologies:**
+<div>
 <img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6+"> &nbsp; <img src="/assets/react.svg" width="60" title="React"> &nbsp; <img src="/assets/tailwind.svg" width="70" height="60" title="Tailwind CSS"> &nbsp; <img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5"> &nbsp; <img src="/assets/sasslogo.svg" width="80" title="Sass">
+ </div>
 
 **Back-End Technologies:**
 <img src="/assets/node.svg" width="50" title="Node"> &nbsp; <img src="/assets/express.svg" width="50" title="Express"> &nbsp; <img src="/assets/firebase.svg" width="50" title="Firebase"> 

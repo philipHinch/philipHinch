@@ -51,7 +51,7 @@ I'm Philip and I love to build web applications!
 
 &nbsp;
 
-**Tools I use:**
+**Other Tools:**
 <div>
 <img src="/assets/jestlogo.svg" width="50" title="Jest"> &nbsp; <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/npmicon.svg" width="60" title="npm"> &nbsp; <img src="/assets/postman.svg" width="60" title="Postman"> &nbsp; <img src="/assets/figmalogo.svg" width="40" title="Figma"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
 </div>

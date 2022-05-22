@@ -67,7 +67,11 @@ I'm Philip and I love to build web applications!
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 
+&nbsp;
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipHinch&show_icons=true&theme=tokyonight)
+
+&nbsp;
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

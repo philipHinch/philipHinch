@@ -70,6 +70,7 @@ I'm Philip and I love to build web applications!
 &nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipHinch&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipHinch&langs_count=5)](https://github.com/philipHinch/github-readme-stats)
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 

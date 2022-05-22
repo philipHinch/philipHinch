@@ -69,7 +69,7 @@ I'm Philip and I love to build web applications!
 
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipHinch&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipHinch&show_icons=true&theme=tokyonight)
 
 ![This is an image](https://raw.githubusercontent.com/philipHinch/underline/main/underline.png)
 
